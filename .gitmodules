@@ -1,0 +1,3 @@
+[submodule "ansible-mothership"]
+	path = ansible-mothership
+	url = git@github.com:Bharathkumarraju/ansible-mothership.git
