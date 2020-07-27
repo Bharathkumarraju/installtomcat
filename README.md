@@ -20,6 +20,6 @@ and ansible-mothership in current directory thats it all done.
 
    1. cd $(git rev-parse --show-toplevel)
    2. git pull --quiet --rebase
-   3. git submodule sync && git submodule update --init
+   3. git submodule sync && git submodule update --init --remote
 
 ```
